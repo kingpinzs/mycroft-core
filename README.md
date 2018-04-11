@@ -38,9 +38,9 @@ This script sets up dependencies and a [virtualenv][about-virtualenv].  If runni
 
 NOTE: The default branch for this repository is 'dev', which should be considered a work-in-progress. If you want to clone a more stable version, switch over to the 'master' branch.
 NOTE: If you are willing to contribute to this project, clone the entire repository by 
-- `git clone  https://github.com/MycroftAI/mycroft-core.git`
+- `git clone  https://github.com/kingpinzs/mycroft-core.git`
  instead of 
-- `git clone --depth=1 https://github.com/MycroftAI/mycroft-core.git`
+- `git clone --depth=1 https://github.com/kingpinzs/mycroft-core.git`
 which is said above.
 
 # Running Mycroft
