@@ -4,6 +4,41 @@ Mycroft [![Build Status](https://travis-ci.org/MycroftAI/mycroft-core.svg?branch
 
 Mycroft is a hackable open source voice assistant.
 
+Atempting to run on windows
+
+Required tools
+==========
+* git - not sure I really needs this if I donwload the zip for now 
+* python - to install python and pip on windows use this link for now
+https://matthewhorne.me/how-to-install-python-and-pip-on-windows-10/
+* python-dev -
+* python-setuptools -
+* python-virtualenv - use pip install virtualenv
+* python-gobject-dev - for a simple gui window (propbubly going to replace this)
+* virtualenvwrapper - use pip install virtualenvwrapper
+* libtool - Not sure if this is needed for windows
+* libffi-dev -
+* libssl-dev -
+* autoconf -
+* automake -
+* bison -
+* swig -
+* libglib2.0-dev -
+* s3cmd -
+* portaudio19-dev -
+* mpg123 -
+* screen -
+* flac -
+* curl -
+* libicu-dev -
+* pkg-config -
+* automake -
+* libjpeg-dev -
+* libfann-dev -
+* build-essential -
+* jq -
+
+
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
